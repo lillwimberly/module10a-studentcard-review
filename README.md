@@ -14,3 +14,5 @@ explain the logic behind props, state, and interactivity.
 ## Screenshot
 
 (Add a screenshot of the running component with your comments visible in the code editor)
+![screenshot]
+[screenshot]:.public/Screenshot.pdf
