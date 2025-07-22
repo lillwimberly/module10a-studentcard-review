@@ -1,3 +1,5 @@
+GitHub Repo URL: https://github.com/lillwimberly/module10a-studentcard-review/blob/main/README.md
+
 # Module 10A – StudentCard Code Review
 
 ## Description
